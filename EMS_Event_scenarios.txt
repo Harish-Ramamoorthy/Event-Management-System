@@ -74,3 +74,5 @@ Also print the number of attendees of the event. Print “no services for this r
 Print total income from all events as follows: 
 Each output line should contain information of a specific event ID (income from room type, income from services, total income of this event). 
 At the end a grand total of all events income. Include discounts.
+
+
