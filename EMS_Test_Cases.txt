@@ -1,0 +1,45 @@
+#Test Case
+
+Add a new hotel, H0 in Fairbanks Alaska. Find it, and add 2 small, 2 medium and 2 large halls.
+Add a new hotel, H1 in Honolulu, Hawaii. Find it and add 5 large halls.
+Add a new hotel, H2 in Baltimore, MD. Add 1 small, 1 medium and 1 large halls.
+Add a new hotel, H3 in Annapolis, MD. Add 5 small, 5 medium and 5 large halls.
+
+Find hotels in Annapolis, MD
+Display information for hotel H0
+Display information for hotel H55 (which does not exist!)
+Report hotels and event rooms in MD
+Show available rooms by type
+
+
+Mrs. Brown makes a reservation at hotel H2 for a wedding for June 7. 100 people are attending.
+Mr. Zero makes a reservation at hotel H0 for a Birthday for July 9. 10 people are attending.
+Mr. Zero makes a reservation at hotel H1 for a Birthday for August 9. 50 people are attending.
+Mrs. Brown makes a reservation at hotel H3 for a Conference for October 10-13. 1000 people are attending.
+Mr. Cyber makes a reservation at hotel H2 for a Hackathon for November 1. 100 people are attending
+
+Show events reserved by Mr. Zero
+Show events reserved by Mr. Brown
+
+Cancel Mr. Zero’s reservation at H0.
+Show events reserved by Mr. Zero
+Show cancellations
+
+Report hotels and rooms in MD including total capacity per event room type per hotel. 
+Produce total monthly income report
+Change event Date of the Hackathon from Nov 1, to Dec 20.
+Produce total monthly income report (again)
+Change room type of Hackathon to a large room
+
+Add breakfast for all attendees of the Conference
+Show reservation services report for the Conference event
+Add a DJ to all birthday events (you may need to make multiple calls)
+Add a pop band to the wedding
+Show Specific service report for DJ
+Show services income report
+
+Show available halls at each hotel (multiple calls)
+Provide event invoice for Mrs. Brown
+Provide event invoice for Mr. Zero
+Income for AK, MD (two calls)
+
