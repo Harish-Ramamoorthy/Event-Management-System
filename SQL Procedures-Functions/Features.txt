@@ -26,7 +26,6 @@ Begin
 Dbms_output.Put_line(x);
 end;
 /
-----------------------------Member 1: Pratik Mankar-----------------------------
 
 ----------------------------Feature 1-----------------------------
 
@@ -696,7 +695,6 @@ Begin
 Dbms_output.Put_line(x);
 end;
 /
-----------------------------Member 2: Harish Ramamoorthy-----------------------------
 
 ----------------------------Feature 7-----------------------------
 
@@ -1227,7 +1225,6 @@ Begin
 Dbms_output.Put_line(x);
 end;
 /
-----------------------------Member 3: Kamlesh pai-----------------------------
 
 ----------------------------Feature 12-----------------------------
 
@@ -1643,12 +1640,12 @@ END;
 /
 SET SERVEROUTPUT ON;
 Declare
-x varchar(500) := '------------------NEW PROCEDURE(Feature 17 of DRASHTI PATEL)-----------------------------------------------------------------------';
+x varchar(500) := '------------------NEW PROCEDURE(Feature 17 )-----------------------------------------------------------------------';
 Begin
 Dbms_output.Put_line(x);
 end;
 /
-------------------------------Feature 17 (Drashti Patel)-------------------------------
+------------------------------Feature 17-------------------------------
 --Add a service to an event: Input: Event reservationID, specific service. Add the service to the event for a particular date. 
 
 DROP TYPE rc_instance;
@@ -1862,12 +1859,12 @@ SELECT * FROM service_reservation;
 
 SET SERVEROUTPUT ON;
 Declare
-x varchar(500) := '------------------NEW PROCEDURE(Feature 16 of Kamlesh Pai)-----------------------------------------------------------------------';
+x varchar(500) := '------------------NEW PROCEDURE(Feature 16)-----------------------------------------------------------------------';
 Begin
 Dbms_output.Put_line(x);
 end;
 /
-------------------------------Feature 16(Kamlesh Pai)-------------------------------
+------------------------------Feature 16-------------------------------
 --Event Invoice: Input: Event reservationID  
 				--Output: 
 				--Name of person that reserved the event
@@ -2211,7 +2208,6 @@ Begin
 Dbms_output.Put_line(x);
 end;
 /
-----------------------------Member 4: Drashti Patel-----------------------------
 
 ------------------------------Feature 18-------------------------------
 --Reservation Services Report: Input the event reservation ID and display all services on this reservation.
