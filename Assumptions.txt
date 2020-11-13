@@ -1,0 +1,28 @@
+1.	The daily rates of each room type and their capacities (max number of people) are as follows:  
+
+Room type	  Capacity	Price
+Small Hall	100	      $500
+Medium Hall	250	      $1000
+Large Hall	500	      $2000
+
+2.	Event reservations for consecutive days for a specific room type.
+
+3.	If a reservation is made 2 months in advance or more, the customer gets a 10% discount on the rate. Otherwise, the customer has to pay full rate.
+
+4.	There are no taxes charged to customers. ERU made a deal with the IRS not to collect taxes from guests (to make things easier for the implementation)
+
+5.	Event Room hall types: small hall, medium hall, large hall.
+
+6.	Customers pay their invoices when the event is over.
+
+7.	A guest can reserve and stay in multiple rooms at the same time (e.g. a large family) and must pay for all reserved rooms. 
+
+8.	The services that are offered by all ERU events are the same. They include:
+
+Service Type	  Amount
+Breakfast 	    $10 per person
+Lunch 	        $20 per person
+DJ 	            $500 per event
+Singer 	        $2000 per event
+Pop band 	      $10000 per event
+
